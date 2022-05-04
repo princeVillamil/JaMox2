@@ -35,4 +35,4 @@ My name is Prince you can call me JaMo. I really enjoy web development and have 
 
 <a href="http://www.github.com/JaMox2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaMox2&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/JaMox2"><img src="https://activity-graph.herokuapp.com/graph?username=JaMox2&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
