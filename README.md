@@ -7,7 +7,7 @@ Web Developer
 My name is Prince you can call me JaMo. I really enjoy web development and have been learning HTML, CSS, JS, and other dev tools to broaden my skill set in this area. I have also picked up an interest in other sorts of programming such as python, game development, and am learning it during my free time.
 
 *   🌍  I'm based in Malaysia at the moment
-*   🖥️  See my portfolio at [princevillamil-me](http://princevillamil-me.netlify.app/)
+*   🖥️  See my portfolio at [princevillamil-me](https://princejeffrey.netlify.app/index.html)
 *   ✉️  You can contact me at [jeffreyvillamilwork@gmail.com](mailto:jeffreyvillamilwork@gmail.com)
 *   🧠  I'm learning JS Concepts
 *   ⚡  love gaming, anime and anything tech
