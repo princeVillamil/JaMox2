@@ -29,7 +29,7 @@ My name is Prince you can call me JaMo. I really enjoy web development and have 
 
 
 
-
+   ---
 
  <div align= "center">
  <b>My GitHub Stats</b>
@@ -40,5 +40,5 @@ My name is Prince you can call me JaMo. I really enjoy web development and have 
   </div>
   </div>
 
-
+   ---
 
