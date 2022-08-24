@@ -8,7 +8,7 @@ My name is Prince you can call me JaMo. I really enjoy web development and have 
 
 *   🌍  I'm based in Malaysia at the moment
 *   🖥️  See my portfolio at [princevillamil-me](https://princejeffrey.netlify.app/index.html)
-*   ✉️  You can contact me at [jeffreyvillamilwork@gmail.com](mailto:jeffreyvillamilwork@gmail.com)
+*   ✉️  You can contact me at [princejeffreyvill@gmail.com](mailto:princejeffreyvill@gmail.com)
 *   🧠  I'm learning JS Concepts
 *   ⚡  love gaming, anime and anything tech
                     
